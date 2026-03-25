@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "AI Overlord",
+  "version": "1.0",
+  "description": "Changes Google Search's AI Overview label to AI Overlord in red.",
+  "content_scripts": [
+    {
+      "matches": ["https://www.google.com/search*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
