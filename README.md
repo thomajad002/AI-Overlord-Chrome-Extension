@@ -1,16 +1,31 @@
-# AI-Overlord-Chrome-Extension
+# AI-Overlord-Extension
 Changes the "AI Overview" text in Google to "AI Overlord", that's it!
 
-## Steps to add
+## How to download
 
 1. Download the Zip or clone the repository from the GitHub page under the green `<> Code` button.
-    * Run `git clone git@github.com:thomajad002/AI-Overlord-Chrome-Extension.git` to clone repository.
-2. Open Google Chrome
-3. Click on the extension tab in the navagation bar
-4. Hit `Manage Extensions` at the bottom of the menu
-5. Make sure developer mode is turned on in the top right
-6. Click on `Load unpacked` button in the top left
-7. Select the file location and then you are done
+    * Or Run `git clone git@github.com:thomajad002/AI-Overlord-Chrome-Extension.git` in your command line to clone repository.
+2. Make sure to make a `.zip` of this folder
+
+## Safari Steps to add
+
+1. Open Safari
+2. Click on Safari menu next to the Apple logo at the top, or hit `⌘,`
+3. Hit `Settings` and navagate to `Developer`
+    * To turn on Developer menu if you don't see that option, go to Advanced, and at the very botton toggle the `Show features for web developers` checkbox
+4. Once in the Developer menu click on `Allow unsigned extensions` checkbox
+5. Click on `Add Temporary Extension...` button
+6. Select the the `.zip` file location
+7. Navagate to Extensions tab and make sure it is Checked and enjoy.
+
+## Chrome Steps to add
+
+1. Open Google Chrome
+2. Click on the extension tab in the navagation bar
+3. Hit `Manage Extensions` at the bottom of the menu
+4. Make sure developer mode is turned on in the top right
+5 Click on `Load unpacked` button in the top left
+6. Select the `.zip` file location and then you are done
 
 ### Enjoy!
-This was made just because my CS teacher made this joke so I made it real.
+This was made just because my CS teacher made this joke in class so I made it real.
