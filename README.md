@@ -5,7 +5,6 @@ Changes the "AI Overview" text in Google to "AI Overlord", that's it!
 
 1. Download the Zip or clone the repository from the GitHub page under the green `<> Code` button.
     * Or Run `git clone git@github.com:thomajad002/AI-Overlord-Chrome-Extension.git` in your command line to clone repository.
-2. Make sure to make a `.zip` of this folder
 
 ## Safari Steps to add
 
