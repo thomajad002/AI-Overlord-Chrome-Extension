@@ -15,8 +15,10 @@ Changes the "AI Overview" text in Google to "AI Overlord", that's it!
     * To turn on Developer menu if you don't see that option, go to Advanced, and at the very botton toggle the `Show features for web developers` checkbox
 4. Once in the Developer menu click on `Allow unsigned extensions` checkbox
 5. Click on `Add Temporary Extension...` button
-6. Select the the `.zip` file location
+6. Select the the file location
 7. Navagate to Extensions tab and make sure it is Checked and enjoy.
+
+#### Note: These extensions are removed when you quit Safari or after 24 hours.
 
 ## Chrome Steps to add
 
@@ -25,7 +27,7 @@ Changes the "AI Overview" text in Google to "AI Overlord", that's it!
 3. Hit `Manage Extensions` at the bottom of the menu
 4. Make sure developer mode is turned on in the top right
 5 Click on `Load unpacked` button in the top left
-6. Select the `.zip` file location and then you are done
+6. Select the file location and then you are done
 
 ### Enjoy!
 This was made just because my CS teacher made this joke in class so I made it real.
