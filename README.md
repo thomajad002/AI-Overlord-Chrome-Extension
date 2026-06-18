@@ -1,7 +1,13 @@
 # AI Overlord Extension
 Changes the "AI Overview" text in Google to "AI Overlord", that's it!
 
-## How to download
+## Download
+You can download it directly here from the [Chrome Exension Web Store](https://chromewebstore.google.com/detail/banojemejlghfnebhpehcfdhjikdbkom?utm_source=item-share-cb)
+
+### Enjoy!
+This was made just because my CS teacher made this joke in class so I made it real.
+
+## How to download manualy
 
 1. Download the Zip or clone the repository from the GitHub page under the green `<> Code` button.
     * Or Run `git clone git@github.com:thomajad002/AI-Overlord-Chrome-Extension.git` in your command line to clone repository.
@@ -25,8 +31,5 @@ Changes the "AI Overview" text in Google to "AI Overlord", that's it!
 2. Click on the extension tab in the navagation bar
 3. Hit `Manage Extensions` at the bottom of the menu
 4. Make sure developer mode is turned on in the top right
-5 Click on `Load unpacked` button in the top left
+5. Click on `Load unpacked` button in the top left
 6. Select the file location and then you are done
-
-### Enjoy!
-This was made just because my CS teacher made this joke in class so I made it real.
